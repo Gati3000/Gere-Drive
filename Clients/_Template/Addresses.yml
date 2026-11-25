@@ -1,0 +1,13 @@
+# Example data, not a real client
+- id: 1
+  label: Taller
+  default: true
+  street: Calle Ejemplo
+  number: "12"
+  rest: Nave 3
+  postal_code: "28001"
+  city: Madrid
+  province: Madrid
+  country: ES
+  contact_name: Juan García
+  contact_phone: "+34600000000"

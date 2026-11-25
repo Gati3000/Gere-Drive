@@ -222,7 +222,14 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Dane klientow, nie wersjonowac
-Messeges/
-Parts/
-Invoices/
+# Dane klientow, nie wersjonowac (w gicie tylko szkielet)
+Messeges/*
+!Messeges/.gitkeep
+Parts/*
+!Parts/.gitkeep
+Invoices/*
+!Invoices/.gitkeep
+Clients/*
+!Clients/.gitkeep
+!Clients/README.md
+!Clients/_Template/

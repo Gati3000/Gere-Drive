@@ -1,0 +1,14 @@
+# Example data, not a real client
+id: "000001"
+name: Juan
+surname: García
+company: Talleres Ejemplo S.L.
+tax_id: B00000000
+whatsapp: "+34600000000"
+phones:
+  - "+34600000000"
+email: juan@example.com
+language: es
+created: "2026-11-25"
+holded_contact_id: ""
+notes: ""
