@@ -10,5 +10,6 @@ phones:
 email: juan@example.com
 language: es
 created: "2026-11-25"
+status: complete
 holded_contact_id: ""
 notes: ""
