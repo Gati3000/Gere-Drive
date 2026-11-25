@@ -229,7 +229,4 @@ Parts/*
 !Parts/.gitkeep
 Invoices/*
 !Invoices/.gitkeep
-Clients/*
-!Clients/.gitkeep
-!Clients/README.md
-!Clients/_Template/
+App/[0-9][0-9][0-9][0-9][0-9][0-9]/

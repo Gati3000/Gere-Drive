@@ -1,5 +1,5 @@
-# Clients
-One folder per client, named with a 6-digit ID (000001, 000002, ...). Real client data is never committed, only this README and `_Template`.
+# Clients (App/)
+One folder per client inside `App/`, named with a 6-digit ID (000001, 000002, ...). Real client data is never committed (ignored by `.gitignore`), only this README and `_Template`.
 
 | File | Content |
 |---|---|
